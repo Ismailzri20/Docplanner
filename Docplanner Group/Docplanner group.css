@@ -1,0 +1,177 @@
+body{
+    font-family: sans-serif;
+    color: rgb(197, 192, 192);
+
+}
+a{
+    color: rgb(197, 192, 192);
+    text-decoration: none;
+
+}
+.active{
+    color:#0ec2aa;
+}
+.acceuil-docplanner img{
+    height: 30px;
+}
+.docplanner-header {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+}
+.introduction{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    letter-spacing:;
+    margin: 190px;
+}
+.introduction-title{
+    color: #0ec2aa;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 1em;
+    word-spacing: 4px;
+    letter-spacing: 2px;
+}
+.introduction-text{
+    display: flex;
+}
+
+.services{
+    display:inline-block;
+    align-self: center;
+    
+    
+}
+
+.services-card-for-patients{
+    background-color:#0ec2aa;
+    border-radius: 12px;
+    color: white;
+    height: 345px;
+    width: 300px;
+    
+}
+.services-card-for-doctors{
+    background-color: blue;
+    border-radius: 12px;
+    color: white;
+    height: 345px;
+    width: 300px;
+}
+.services-card-for-clinics{
+    background-color: #313d4b;
+    border-radius: 12px;
+    color: white;
+    height: 345px;
+    width: 310px;
+    
+}
+
+
+.service-card-select{
+    background: none;
+    border-radius: 10px;
+    color: white;
+    
+    
+}
+.service-card-title{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif
+    font-size: 1.5em;
+}
+
+
+option{
+    color: black;
+}
+
+.container{
+    margin: 0 -10px;    
+    box-sizing: inherit;
+    margin: 190px;
+}
+
+
+
+.brands-logos{
+    display: inline-flex;
+}
+
+.brands-logos svg{
+    color: rgb(197, 192, 192);
+}
+
+.section-grid{
+    background-color:#e5faf8;
+    background-image: linear-gradient(-45deg,rgba(0,204,177,.01)5%, rgba(61,199,223,.1));
+    background-image: url();
+    height: 1000px;
+    
+    
+    
+}
+
+.introduction-logo{
+    color: #0ec2aa;
+}
+
+.col-2-stats-title{
+    color: #0ec2aa;
+}
+.grid{
+    display: inline-flex;
+}
+
+.grid-title{
+    color: #0ec2aa;
+
+}
+
+.
+}
+.col-2-stats-title{
+    color: #0ec2aa;
+}
+
+.office-header{
+    text-align: center;
+}
+.office-section-inner{
+    margin: 150px
+}
+.trad-header{
+    color:#0ec2aa;
+}
+.join-us-header{
+    text-align: center;
+    color: black;
+}
+.bttn{
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    outline: 0;
+    border: 0;
+    border-radius: 8px;
+    padding: 1.1666666667em 1.5em;
+    background: #3d83df;
+    font-family: Roboto,Arial,sans-serif;
+    line-height: 1em;
+    color: #fff;
+    font-weight: 700;
+    letter-spacing: 1px;
+    font-size: 12px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: all .2s ease 0s;
+}
+
+.rid-stats-grid-fade-elements{
+    display: flex;
+}
+.main-footer{
+    text-align: center;
+}
+
